@@ -48,11 +48,15 @@
   <!-- Notification slider -->
   <string name="notification_slider_category_title">Meldingschakelaar</string>
   <string name="notification_slider_selection_dialog_title">Actie</string>
+  <string name="notification_slider_ignore_auto_title">Schakel uit tijdens automatische regels</string>
+  <string name="notification_slider_ignore_auto_summary">Negeer de slider wanneer automatische regels werken</string>
   <string name="notification_slider_top_position">Bovenste positie</string>
   <string name="notification_slider_middle_position">Middelste positie</string>
   <string name="notification_slider_bottom_position">Onderste positie</string>
   <string name="notification_slider_mode_total_silence">Totale stilte</string>
   <string name="notification_slider_mode_alarms_only">Alleen alarmen</string>
   <string name="notification_slider_mode_priority_only">Alleen prioriteit</string>
-  <string name="notification_slider_mode_none">Geen</string>
+  <string name="notification_slider_mode_none">Alle notificaties</string>
+  <string name="notification_slider_mode_vibrate">Trilfunctie</string>
+  <string name="notification_slider_mode_ring">Ringer</string>
 </resources>
